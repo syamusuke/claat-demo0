@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "updated": "2021-10-16T07:30:52Z",
+  "id": "claat-template-100",
+  "duration": 35,
+  "title": "練習",
+  "authors": "kgorai",
+  "summary": "CLaaT を利用したコンテンツ作成のテンプレートとして利用可能なファイルです。",
+  "source": "12Yrs8r9bAwNlKyL_f_vlnJlnmo9ixXo59LzJcb342lM",
+  "theme": "100-basic",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "100-Basic"
+  ],
+  "tags": [],
+  "url": "claat-template-100"
+}
